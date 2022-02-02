@@ -1,5 +1,12 @@
 ### Hi there, I'am Mayank Gupta! 👋
 
+<a href="https://github.com/mayankbindas/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankbindas&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+</a> 
+<a href="https://github.com/mayankbindas/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbindas&layout=compact&theme=radical&hide_border=false" />
+</a>
+
 <!--
 **mayankbindas/mayankbindas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
