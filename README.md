@@ -1,7 +1,6 @@
 ### Hi there, I'am Mayank Gupta! 👋
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mayankbindas
-              
+[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mayankbindas)
 
 <a href="https://github.com/mayankbindas/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankbindas&count_private=true&show_icons=true&theme=radical&hide_border=false" />
