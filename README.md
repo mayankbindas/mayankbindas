@@ -4,7 +4,7 @@
 
 <a href="https://github.com/mayankbindas/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankbindas&count_private=true&show_icons=true&theme=gruvbox&hide_border=false" />
-</a> <br/>
+</a> <br/><br/>
 <a href="https://github.com/mayankbindas/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbindas&layout=compact&theme=gruvbox&hide_border=false" />
 </a>
